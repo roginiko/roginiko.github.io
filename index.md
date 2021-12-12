@@ -1,6 +1,4 @@
 ---
-title: Page example
+title: BeautifulMelEddie
 layout: home
 ---
-
-Blah blah blah
