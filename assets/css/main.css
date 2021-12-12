@@ -588,7 +588,7 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out;
-		color: #98c593;
+		color: #8C4688;
 	}
 
 	sub {
@@ -2241,33 +2241,52 @@ input, select, textarea {
 
 		}
 
-/* Intro */
+/* Welcome */
 
-	#intro {
-		background: url("images/overlay.png"), url("../../images/intro.jpg");
+	#welcome {
+		background: url("images/overlay.png"), url("../../images/meleddie/meleddie_welcome.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
 		background-repeat: repeat, no-repeat;
 	}
 
-/* One */
+/* Our story */
 
-	#one {
-		background: url("images/overlay.png"), url("../../images/one.jpg");
+	#our-story {
+		background: url("images/overlay.png"), url("../../images/meleddie/meleddie_gennas.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
 
-/* Two */
+/* Our Family */
 
-	#two {
-		background: url("images/overlay.png"), url("../../images/two.jpg");
+	#our-family {
+		background: url("images/overlay.png"), url("../../images/meleddie/meleddie_our_family.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
+
+/* Proposal */
+
+	#proposal {
+		background: url("images/overlay.png"), url("../../images/meleddie/meleddie_proposal.jpg");
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+
+/* Wedding details */
+
+	#wedding-details {
+		background: url("images/overlay.png"), url("../../images/meleddie/meleddie_wedding_details.jpg");
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+	
 
 /* Contact */
 
