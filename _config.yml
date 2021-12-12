@@ -1,0 +1,6 @@
+name: beautifulmeleddie
+markdown: kramdown
+collections:
+  pages:
+    output: true
+    permalink: /:path

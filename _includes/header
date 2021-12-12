@@ -1,0 +1,12 @@
+<header id="header">
+    <!-- make this a link back to the home page-->
+    <a href="{{"/index" | relative_url}}"><h1 style="color: lightseagreen;">BeautifulMelEddie</h1></a>
+    <nav>
+        <ul>
+            <li><a href="{{"/index" | relative_url}}#welcome" style="color: #F27163; font-weight: bold;">Welcome</a></li>
+            <li><a href="{{"/index" | relative_url}}#our-story" style="color:#BF1171; font-weight: bold;">Our story</a></li>
+            <li><a href="{{"/index" | relative_url}}#wedding-details" style="color: #8C4688; font-weight: bold;">Wedding details</a></li>
+            <li><a href="{{"/index" | relative_url}}#photos" style="color: lightseagreen; font-weight: bold;">Photos</a></li>
+        </ul>
+    </nav>
+</header>

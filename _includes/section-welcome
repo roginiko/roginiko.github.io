@@ -1,0 +1,11 @@
+<section id="welcome" class="main style1 dark fullscreen">
+    <div class="content">
+        <header>
+            <h2 style="font-size: 3.4em;">Mel & Eddie are getting married.</h2>
+        </header>
+        <p style="font-size: larger;">We hope you can join the party.</p>
+        <footer>
+            <a href="#our-story" class="button style2 down">More</a>
+        </footer>
+    </div>
+</section>

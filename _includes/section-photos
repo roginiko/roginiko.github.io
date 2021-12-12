@@ -1,0 +1,33 @@
+<section id="photos" class="main style3 primary">
+    <div class="content">
+        <header>
+            <h2 style="color:lightseagreen;">Photos</h2>
+            <p>Please enjoy these engagement photos by Heidi from Azena Photography!</p>
+        </header>
+
+        <!-- Gallery  -->
+            <div class="gallery">
+                <article class="from-left">
+                    <a href="images/gallery/MHEE-eng-015.jpg" class="image fit"><img src="images/thumbs/MHEE-eng-015_thumb.jpg" title="The Anonymous Red" alt="" /></a>
+                </article>
+                <article class="from-right">
+                    <a href="images/gallery/MHEE-eng-023.jpg" class="image fit"><img src="images/thumbs/MHEE-eng-023_thumb.jpg" title="Airchitecture II" alt="" /></a>
+                </article>
+                <article class="from-left">
+                    <a href="images/gallery/MHEE-eng-026.jpg" class="image fit"><img src="images/thumbs/MHEE-eng-026_thumb.jpg" title="Air Lounge" alt="" /></a>
+                </article>
+                <article class="from-right">
+                    <a href="images/gallery/MHEE-eng-087.jpg" class="image fit"><img src="images/thumbs/MHEE-eng-087_thumb.jpg" title="Carry on" alt="" /></a>
+                </article>
+                <article class="from-left">
+                    <a href="images/gallery/MHEE-eng-041.jpg" class="image fit"><img src="images/thumbs/MHEE-eng-041_thumb.jpg" title="The sparkling shell" alt="" /></a>
+                </article>
+                <article class="from-right">
+                    <a href="images/gallery/MHEE-eng-047.jpg" class="image fit"><img src="images/thumbs/MHEE-eng-047_thumb.jpg" title="Bent IX" alt="" /></a>
+                </article>
+            </div>
+
+        <a href="{{"/photo_gallery" | relative_url}}">more photos...</a>
+
+    </div>
+</section>
