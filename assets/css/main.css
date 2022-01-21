@@ -2286,6 +2286,15 @@ input, select, textarea {
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
+
+/* Accommodations */
+
+	#accommodations {
+		background: url("images/overlay.png"), url("../../images/meleddie/meleddie_accommodations.jpg");
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
 	
 
 /* Contact */
