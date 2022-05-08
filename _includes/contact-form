@@ -21,7 +21,7 @@
     <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
     <label for="message" style="margin-top: 1em"><b>Anything else you want us to know?</b></label>
     <textarea rows="2" name="message" id="message" placeholder="Say hello or ask a question." required=""></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+    <input type="hidden" name="_subject" id="email-subject" value="Wedding RSVP">
   </fieldset>
   <input type="submit" value="Submit" style="margin-top: 1em;">
 </form>
