@@ -2,7 +2,7 @@
   <fieldset id="fs-frm-inputs">
     <label for="full-name"><b>Your Name</b></label>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
-    <label for="attending" style="margin-top: 1em;"><b>Can you make it to our wedding?</b></label>
+    <label for="attending" style="margin-top: 1em;"><b>Can you make it to our wedding on August 27th, 2022?</b></label>
     <select name="attending" id="attending" required="">
       <option value="" selected="" disabled=""> Select</option>
       <option value="Yes">Yes</option>
