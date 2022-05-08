@@ -3,10 +3,22 @@
         <header>
             <h2 style="color: #8C4688;">Wedding details</h2>
         </header>
-        <p><b>August 27, 2022</b></p>
+        <header style="margin-bottom: 0.5em;">
+            <h3 style="color: #F27163;">When</h3>
+        </header>
+        <p style="margin-bottom: 0;"><b>Saturday, August 27, 2022 @ 4:00 PM</b></p>
+        <p>Dinner, drinks, and dancing to follow.</p>
+        <header style="margin-bottom: 0.5em;">
+            <h3 style="color: lightseagreen;">Where</h3>
+        </header>
         <p style="margin-bottom: 0;"><i>Lussier Family Heritage Center</i></p>
         <p style="margin-bottom: 0;">3101 Lake Farm Road </p>
         <P>Madison, Wisconsin 53711</p>
+        <header style="margin-bottom: 0.5em;">
+            <h3 style="color: #BF1171;">RSVP</h3>
+        </header>
+        <p>Please let us know wether you can come by <b>July 27th</b>, 2022.</p>
+        <a href="{{"/rsvp" | relative_url}}"><b>RSVP here</b></a>
     </div>
     <a href="#accommodations" class="button style2 down anchored">Next</a>
 </section>
