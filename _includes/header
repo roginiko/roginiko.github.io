@@ -7,6 +7,7 @@
             <li><a href="{{"/index" | relative_url}}#our-story" style="color:#BF1171; font-weight: bold;">Our story</a></li>
             <li><a href="{{"/index" | relative_url}}#wedding-details" style="color: #8C4688; font-weight: bold;">Wedding details</a></li>
             <li><a href="{{"/rsvp" | relative_url}}" style="color: #46508c; font-weight: bold;">RSVP</a></li>
+            <li><a href="{{"/registry" | relative_url}}" style="color: #BF1171; font-weight: bold;">Registry</a></li>
             <li><a href="{{"/index" | relative_url}}#photos" style="color: lightseagreen; font-weight: bold;">Photos</a></li>
         </ul>
     </nav>
