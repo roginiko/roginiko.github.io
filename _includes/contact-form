@@ -1,8 +1,8 @@
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xknppyvl" method="post">
   <fieldset id="fs-frm-inputs">
-    <label for="full-name"><b>Your Name</b></label>
+    <label for="full-name"><b>Your Name*</b></label>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
-    <label for="attending" style="margin-top: 1em;"><b>Can you make it to our wedding on August 27th, 2022?</b></label>
+    <label for="attending" style="margin-top: 1em;"><b>Can you make it to our wedding on August 27th, 2022?*</b></label>
     <select name="attending" id="attending" required="">
       <option value="" selected="" disabled=""> Select</option>
       <option value="Yes">Yes</option>
@@ -10,18 +10,19 @@
     </select>
     <label for="additional-guest" style="margin-top: 1em;"><b>Are you bringing anyone with you?</b></label>
     <p style="margin-bottom: 0;">If so, let us know who!</p>
-    <input type="text" name="additional-guest" id="additional-guest" placeholder="Enter your guests' names here." required="">
+    <input type="text" name="additional-guest" id="additional-guest" placeholder="Enter your guests' names here.">
     <label for="diet" style="margin-top: 1em;"><b>Do you have any dietary restrictions?</b></label>
     <p style="margin-bottom: 0;">If so, tell us about them here.</p>
-    <input type="text" name="diet" id="diet" placeholder="Enter dietary restrictions here." required="">
+    <input type="text" name="diet" id="diet" placeholder="Enter dietary restrictions here.">
     <label for="music" style="margin-top: 1em;"><b>Do you have any song requests?</b></label>
     <p style="margin-bottom: 0;">Tell us your favorite song to dance to.</p>
-    <input type="text" name="music" id="music" placeholder="Enter song requests here." required="">
-    <label for="email-address" style="margin-top: 1em;"><b>Email Address</b></label>
+    <input type="text" name="music" id="music" placeholder="Enter song requests here.">
+    <label for="email-address" style="margin-top: 1em;"><b>Email Address*</b></label>
     <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
     <label for="message" style="margin-top: 1em"><b>Anything else you want us to know?</b></label>
-    <textarea rows="2" name="message" id="message" placeholder="Say hello or ask a question." required=""></textarea>
+    <textarea rows="2" name="message" id="message" placeholder="Say hello or ask a question."></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Wedding RSVP">
   </fieldset>
+  <p><i>* Required fields.</i></p>
   <input type="submit" value="Submit" style="margin-top: 1em;">
 </form>
