@@ -17,8 +17,13 @@
         <header style="margin-bottom: 0.5em;">
             <h3 style="color: #BF1171;">RSVP</h3>
         </header>
-        <p>Please let us know wether you can come by <b>July 27th</b>, 2022.</p>
+        <p style="margin-bottom: 0;">Please let us know wether you can come by <b>July 27th</b>, 2022.</p>
         <a href="{{"/rsvp" | relative_url}}"><b>RSVP here</b></a>
+        <header style="margin-bottom: 0.5em;">
+            <h3 style="color: #8C4688; margin-top: 1em;">Pre-wedding fun</h3>
+        </header>
+        <p style="margin-bottom: 0;"><b>Friday Night Bonfire, August 26 @ 7:30 PM</p></b>
+        <p>In you’re in town early, join us for s’mores and drinks around the fire! We’ll be right outside the wedding venue.</p>
     </div>
     <a href="#accommodations" class="button style2 down anchored">Next</a>
 </section>
